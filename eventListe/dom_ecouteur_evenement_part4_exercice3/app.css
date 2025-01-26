@@ -1,0 +1,16 @@
+.text-blue {
+    color: blue
+}
+.text-error {
+    color: red
+}
+.text-style {
+    text-decoration: underline;
+}
+
+.bolder {
+    font-weight: bolder;
+}
+.bolrder-red  {
+    border: red solid 10px;
+}
